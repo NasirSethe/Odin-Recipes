@@ -42,6 +42,7 @@ This project is part of the HTML Foundations.
 ## 🛠 Built With <a name="built-with"></a>
 
 1.HTML
+
 2.CSS
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -129,9 +130,9 @@ Coming soon.
 
 👤 Abdi Nasir Daud Sethe
 
-- GitHub: [@githubhandle](https://github.com/NasirSethe)
-- Twitter: [@twitterhandle](https://twitter.com/SetheNasir)
-- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/abdi-nasir-sethe-305a86263/)
+- GitHub: [NasirSethe](https://github.com/NasirSethe)
+- Twitter: [@SetheNasir](https://twitter.com/SetheNasir)
+- LinkedIn: [Abdi Nasir Sethe](https://www.linkedin.com/in/abdi-nasir-sethe-305a86263/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
